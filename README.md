@@ -1,4 +1,5 @@
 Question 6 : If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used?
+
 Code Snippet :
 
 <img width="932" alt="Question 6 Image " src="https://github.com/NigamAnanya/RA2111003010994_Factwise_BE/assets/104274005/ba4ee4ac-4c97-49db-9b96-7b77181d1b7a">
